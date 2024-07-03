@@ -1,4 +1,4 @@
-# Algorithm Test
+# Algorithm Study
 
 Studying algorithms for coding tests
 
