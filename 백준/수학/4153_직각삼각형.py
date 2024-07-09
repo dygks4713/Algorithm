@@ -10,4 +10,4 @@ while 1:
     elif (a**2 + c**2) == b**2:
         print("right")
     else:
-        print("wrong")
+        print("wrong") # 직각 삼각형이 아닌 경우 출력
